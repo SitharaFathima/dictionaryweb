@@ -96,22 +96,25 @@ img {
 
 #home,
 #single-page-home {
-    padding: 20px 0 50px;
     position: relative;
 }
 #single-page-home section.wrapper {
-    max-width: 1280px;
-}
+    max-width: 1280px; 
+   
+} 
 #home .wrapper {
+    
 }
 header {
+    background-color: #dee2e6; 
+    padding: 40px 140px;
     display: flex;
     align-items: center;
     margin-bottom: 15px;
     justify-content: space-between;
 }
 header h1 {
-    width: 90px;
+    width: 60px;
 }
 header h1 a {
     display: block;
@@ -129,4 +132,31 @@ header a.login {
 header a.login.my-posts {
     margin: 0 15px 0 auto;
 }
-
+#home section.spotlight {
+    padding-top: 200px;
+    text-align: center;
+}
+#home section.spotlight div.container div.top h2{
+    color:#1c2c40;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+#home section.spotlight div.container div.top p{
+    color:grey;
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+#home section.spotlight div.container form input{
+    border: 1px solid grey;
+    padding: 8px 60px;
+    border-radius: 5px;
+}
+#home section.spotlight div.container form button{
+    background-color:  #1167b1;
+    color: #fff;
+    font-size: 16px;
+    padding: 8px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
