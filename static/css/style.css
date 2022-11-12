@@ -129,6 +129,8 @@ header a.login {
 header a.login.my-posts {
     margin: 0 15px 0 auto;
 }
+
+/* 
 header div#hamburger-icon {
     display: none;
 }
@@ -580,7 +582,7 @@ div.pagination div.pages a:hover {
 
 /* index-page css  completed */
 
-#single-page-home {
+/*#single-page-home {
 }
 #single-page-home section.single-page-spotlight {
 }
@@ -718,7 +720,7 @@ div.pagination div.pages a:hover {
 }
 
 /* single-page css  completed */
-#edit-post-home {
+/*#edit-post-home {
     padding: 3% 0 5%;
     position: relative;
 }
@@ -873,7 +875,7 @@ div.pagination div.pages a:hover {
     cursor: pointer;
 }
 /* lkdhfjdhfjhdfjdfh */
-#edit-post-home section.spotlight form input[type="submit"] {
+/*#edit-post-home section.spotlight form input[type="submit"] {
     background-color: #5aab7b;
     width: 10%;
     padding: 10px;
@@ -896,7 +898,7 @@ div.pagination div.pages a:hover {
     display: none !important;
 }
 /* editpost-page css  completed */
-
+/*
 #my-posts-home {
     padding: 3% 0 5%;
     position: relative;
@@ -1103,7 +1105,7 @@ div.overlay.active {
 }
 
 /* myposts-page css  completed */
-
+/*
 #auth-home {
     padding: 3% 0 5%;
     position: relative;
@@ -1223,7 +1225,7 @@ div.overlay.active {
     text-decoration: underline;
 }
 /* login, signup-page css  completed */
-
+/*
 @media all and (max-width: 1280px) {
     #home section.spotlight div.all-posts div.post-section {
         width: 72%;
@@ -1241,7 +1243,7 @@ div.overlay.active {
         font-size: 18px;
     }
     /* index 1280px responsive  completed */
-
+/*
     #edit-post-home header a.login {
         width: 12%;
     }
@@ -1257,6 +1259,7 @@ div.overlay.active {
         width: 13%;
     }
     /* edit-post 1280px responsive  completed */
+    /*
     #my-posts-home section.spotlight ul.posts li.post p.description {
         font-size: 18px;
         margin-bottom: 3%;
@@ -1275,7 +1278,7 @@ div.overlay.active {
         min-width: 900px;
     }
     /* my-posts 1280px responsive  completed */
-
+/*
     #auth-home section.spotlight form.authenticate {
         width: 65%;
     }
@@ -1321,7 +1324,7 @@ div.overlay.active {
         padding: 3% 4%;
     }
     /* index 1080px responsive  completed */
-
+/*
     #edit-post-home section.spotlight h3 {
         margin-bottom: 4%;
     }
@@ -1337,7 +1340,7 @@ div.overlay.active {
         width: 19%;
     }
     /* edit-post 1080px responsive  completed */
-
+/*
     #my-posts-home section.spotlight h3 {
         margin-bottom: 4%;
     }
@@ -1349,7 +1352,7 @@ div.overlay.active {
         min-width: 750px;
     }
     /* my-posts 1080px responsive  completed */
-
+/*
     #auth-home section.spotlight form.authenticate {
         width: 70%;
     }
@@ -1374,7 +1377,7 @@ div.overlay.active {
         margin-right: 5%;
     }
     /* index 980px responsive  completed */
-
+/*
     #single-page-home
         section.single-page-spotlight
         div.details
@@ -1407,7 +1410,7 @@ div.overlay.active {
         padding: 8px;
     }
     /* single-page 980px responsive  completed */
-
+/*
     header h1 {
         width: 100px;
     }
@@ -1426,7 +1429,7 @@ div.overlay.active {
         width: 25%;
     }
     /* edit-post 980px responsive  completed */
-
+/*
     #my-posts-home header h1 {
         width: 100px;
     }
@@ -1455,7 +1458,7 @@ div.overlay.active {
         min-width: 650px;
     }
     /* my-posts 980px responsive  completed */
-
+/*
     #auth-home header h1 {
         width: 100px;
     }
@@ -1498,7 +1501,7 @@ div.overlay.active {
         margin-bottom: 7%;
     }
     /* index 768px responsive  completed */
-
+/*
     #single-page-home section.single-page-spotlight div.blog-category {
         margin-bottom: 5%;
     }
@@ -1523,7 +1526,7 @@ div.overlay.active {
         margin: 3% 0 0 auto;
     }
     /* single-page 768px responsive  completed */
-
+/*
     header {
         margin-bottom: 10%;
     }
@@ -1554,7 +1557,7 @@ div.overlay.active {
         width: 22%;
     }
     /* edit-post 768px responsive  completed */
-
+/*
     #my-posts-home header {
         margin-bottom: 7%;
     }
@@ -1580,7 +1583,7 @@ div.overlay.active {
         min-width: 550px;
     }
     /* my-posts 768px responsive  completed */
-
+/*
     #auth-home header {
         margin-bottom: 10%;
     }
@@ -1634,7 +1637,7 @@ div.overlay.active {
         font-size: 14px;
     }
     /* home 640px responsive  completed */
-
+/*
     #single-page-home section.single-page-spotlight div.details {
         flex-wrap: wrap;
     }
@@ -1645,7 +1648,7 @@ div.overlay.active {
         margin-bottom: 5%;
     }
     /* single-page 640px responsive  completed */
-
+/*
     #edit-post-home {
         padding: 7% 0;
     }
@@ -1682,7 +1685,7 @@ div.overlay.active {
         width: 25%;
     }
     /* edit-post 640px responsive  completed */
-
+/*
     #my-posts-home {
         padding: 7% 0;
     }
@@ -1731,7 +1734,7 @@ div.overlay.active {
         min-width: 400px;
     }
     /* my-posts 640px responsive  completed */
-
+/*
     #auth-home {
         padding: 7% 0;
     }
@@ -1778,7 +1781,7 @@ div.overlay.active {
         width: 280px;
     }
     /* index 480px responsive  completed */
-
+/*
     #single-page-home
         section.single-page-spotlight
         div.blog-category
@@ -1812,7 +1815,7 @@ div.overlay.active {
         font-size: 16px;
     }
     /* single-page 480px responsive  completed */
-
+/*
     header a.login {
         width: 30%;
     }
@@ -1840,7 +1843,7 @@ div.overlay.active {
         width: 30%;
     }
     /* edit-post 480px responsive  completed */
-
+/*
     #my-posts-home section.spotlight h3 {
         font-size: 25px;
     }
@@ -1882,7 +1885,7 @@ div.overlay.active {
         min-width: 330px;
     }
     /* my-posts 480px responsive  completed */
-
+/*
     #auth-home header a.login {
         font-size: 16px;
     }
@@ -1929,7 +1932,7 @@ div.overlay.active {
         margin-left: auto;
     }
     /* index 360px responsive  completed */
-
+/*
     #single-page-home
         section.single-page-spotlight
         div.details
@@ -1968,7 +1971,7 @@ div.overlay.active {
         font-size: 14px;
     }
     /* single-page 360px responsive  completed */
-
+/*
     #edit-post-home
         section.spotlight
         form
@@ -1981,7 +1984,7 @@ div.overlay.active {
         width: 40%;
     }
     /* edit-post 360px responsive  completed */
-
+/*
     #my-posts-home section.spotlight ul.posts li.post div.top a {
         width: 30px;
         padding: 9px;
@@ -1998,7 +2001,7 @@ div.overlay.active {
         min-width: 250px;
     }
     /* my-posts 360px responsive  completed */
-
+/*
     #auth-home section.spotlight form.authenticate h4.head {
         font-size: 22px;
     }
@@ -2023,4 +2026,4 @@ div.overlay.active {
 
 .django-ckeditor-widget {
     width: 100%;
-}
+} */
